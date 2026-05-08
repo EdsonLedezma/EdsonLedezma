@@ -122,7 +122,7 @@ Soy Edson Ledezma — desarrollador fullstack con experiencia en desarrollo web,
   </a>
 </p>
 
-## Sobre mí (breve)
+## Sobre mí
 - Desarrollo aplicaciones web y móviles (nativo e híbrido).
 - Experiencia con automatización, despliegue (dokploy), y proyectos con Arduino y electrónica.
 - Fullstack: desde APIs y bases de datos hasta UI y despliegue.
@@ -133,8 +133,3 @@ Soy Edson Ledezma — desarrollador fullstack con experiencia en desarrollo web,
   <img alt="coding" src="https://img.shields.io/badge/coding-nothing%20rn-0078D7?style=for-the-badge"/>
 </p>
 
-## Estadísticas de GitHub
-<p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdsonLedezma&theme=github_dark"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonLedezma&layout=compact&theme=github_dark"/>
-</p>
